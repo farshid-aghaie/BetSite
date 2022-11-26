@@ -1,0 +1,8 @@
+[19-May-2020 18:42:12 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/betstyle/public_html/app/Jobs/CheckForecastsStatusJob.php on line 17
+[19-May-2020 18:42:12 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/betstyle/public_html/app/Jobs/ffffffffffff.php on line 17
+[29-May-2020 14:27:56 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/betstyle/public_html/app/Jobs/CheckForecastsStatusJob.php on line 17
+[29-May-2020 14:27:56 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/betstyle/public_html/app/Jobs/ffffffffffff.php on line 17
+[01-Jun-2020 14:31:02 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/betstyle/public_html/app/Jobs/CheckForecastsStatusJob.php on line 17
+[01-Jun-2020 14:31:02 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/betstyle/public_html/app/Jobs/ffffffffffff.php on line 17
+[02-Jun-2020 14:26:12 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/betstyle/public_html/app/Jobs/CheckForecastsStatusJob.php on line 17
+[02-Jun-2020 14:26:12 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/betstyle/public_html/app/Jobs/ffffffffffff.php on line 17

@@ -1,0 +1,4 @@
+[22-Apr-2020 14:32:37 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/betstyle/public_html/tests/Unit/ExampleTest.php on line 7
+[29-May-2020 14:36:35 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/betstyle/public_html/tests/Unit/ExampleTest.php on line 7
+[01-Jun-2020 14:38:31 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/betstyle/public_html/tests/Unit/ExampleTest.php on line 7
+[02-Jun-2020 14:37:03 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/betstyle/public_html/tests/Unit/ExampleTest.php on line 7

@@ -1,0 +1,8 @@
+[19-May-2020 18:42:07 UTC] PHP Fatal error:  Class 'App\Http\Requests\Admin\AdminBaseRequest' not found in /home/betstyle/public_html/app/Http/Requests/Admin/Member/StoreMember.php on line 10
+[19-May-2020 18:42:07 UTC] PHP Fatal error:  Class 'App\Http\Requests\Admin\AdminBaseRequest' not found in /home/betstyle/public_html/app/Http/Requests/Admin/Member/UpdateMember.php on line 10
+[29-May-2020 14:27:31 UTC] PHP Fatal error:  Class 'App\Http\Requests\Admin\AdminBaseRequest' not found in /home/betstyle/public_html/app/Http/Requests/Admin/Member/StoreMember.php on line 10
+[29-May-2020 14:27:31 UTC] PHP Fatal error:  Class 'App\Http\Requests\Admin\AdminBaseRequest' not found in /home/betstyle/public_html/app/Http/Requests/Admin/Member/UpdateMember.php on line 10
+[01-Jun-2020 14:30:36 UTC] PHP Fatal error:  Class 'App\Http\Requests\Admin\AdminBaseRequest' not found in /home/betstyle/public_html/app/Http/Requests/Admin/Member/StoreMember.php on line 10
+[01-Jun-2020 14:30:37 UTC] PHP Fatal error:  Class 'App\Http\Requests\Admin\AdminBaseRequest' not found in /home/betstyle/public_html/app/Http/Requests/Admin/Member/UpdateMember.php on line 10
+[02-Jun-2020 14:26:06 UTC] PHP Fatal error:  Class 'App\Http\Requests\Admin\AdminBaseRequest' not found in /home/betstyle/public_html/app/Http/Requests/Admin/Member/StoreMember.php on line 10
+[02-Jun-2020 14:26:06 UTC] PHP Fatal error:  Class 'App\Http\Requests\Admin\AdminBaseRequest' not found in /home/betstyle/public_html/app/Http/Requests/Admin/Member/UpdateMember.php on line 10

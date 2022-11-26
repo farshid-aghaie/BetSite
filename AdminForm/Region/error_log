@@ -1,0 +1,8 @@
+[19-May-2020 18:41:40 UTC] PHP Fatal error:  Class 'App\Http\Forms\Admin\BaseAdminForm' not found in /home/betstyle/public_html/app/Http/Forms/Admin/Region/RegionFilter.php on line 11
+[19-May-2020 18:41:40 UTC] PHP Fatal error:  Class 'App\Http\Forms\Admin\BaseAdminForm' not found in /home/betstyle/public_html/app/Http/Forms/Admin/Region/RegionForm.php on line 11
+[29-May-2020 14:27:24 UTC] PHP Fatal error:  Class 'App\Http\Forms\Admin\BaseAdminForm' not found in /home/betstyle/public_html/app/Http/Forms/Admin/Region/RegionFilter.php on line 11
+[29-May-2020 14:27:24 UTC] PHP Fatal error:  Class 'App\Http\Forms\Admin\BaseAdminForm' not found in /home/betstyle/public_html/app/Http/Forms/Admin/Region/RegionForm.php on line 11
+[01-Jun-2020 14:30:10 UTC] PHP Fatal error:  Class 'App\Http\Forms\Admin\BaseAdminForm' not found in /home/betstyle/public_html/app/Http/Forms/Admin/Region/RegionFilter.php on line 11
+[01-Jun-2020 14:30:10 UTC] PHP Fatal error:  Class 'App\Http\Forms\Admin\BaseAdminForm' not found in /home/betstyle/public_html/app/Http/Forms/Admin/Region/RegionForm.php on line 11
+[02-Jun-2020 14:25:40 UTC] PHP Fatal error:  Class 'App\Http\Forms\Admin\BaseAdminForm' not found in /home/betstyle/public_html/app/Http/Forms/Admin/Region/RegionFilter.php on line 11
+[02-Jun-2020 14:25:40 UTC] PHP Fatal error:  Class 'App\Http\Forms\Admin\BaseAdminForm' not found in /home/betstyle/public_html/app/Http/Forms/Admin/Region/RegionForm.php on line 11
